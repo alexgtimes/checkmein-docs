@@ -64,10 +64,9 @@ const config = {
           srcDark: 'img/smarttechlogo.png',
           href: 'https://docusaurus.io/',
           target: '_self',
-          width: 32,
-          height: 32,
+          width: 1000,
+          height: 400,
           className: 'custom-navbar-logo-class',
-          style: {border: 'solid red'},
         },
         items: [
           {
