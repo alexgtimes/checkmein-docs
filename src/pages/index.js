@@ -10,7 +10,6 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
       <div className={styles.buttons}>
           <Link
@@ -20,7 +19,6 @@ function HomepageHeader() {
           </Link>
         </div>
       </div>
-    </header>
   );
 }
 
