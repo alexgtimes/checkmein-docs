@@ -13,7 +13,7 @@ const config = {
   favicon: 'https://checkmein.cloud/images/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://checkmein-docs.vercel.app',
+  url: 'https://checkmein-docs.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -62,7 +62,7 @@ const config = {
           alt: 'Site Logo',
           src: 'img/smart_dark.png',
           srcDark: 'img/smarttechlogo.png',
-          href: 'https://docusaurus.io/',
+          href: 'https://checkmein-docs.vercel.app/',
           target: '_self',
           width: 80,
           height: 50,
